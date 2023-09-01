@@ -21,6 +21,7 @@ Olá, meu nome é Sthefany, tenho 22 anos e estou me aprofundando no universo da
 
 
 ## 🖥 GitHub Streak Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=serrsthefany&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
